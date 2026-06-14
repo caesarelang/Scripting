@@ -1094,7 +1094,7 @@ local function ConnectEvents()
 
         -- Load script utama
         getgenv().SCRIPT_KEY = "no Key needed"
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/caesarelang/caesarelang/main/script.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/caesarelang/Scripting/refs/heads/main/GAG2.lua"))()
     end
 
     local function OnValidationFailed()
