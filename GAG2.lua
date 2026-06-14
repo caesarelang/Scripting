@@ -45,7 +45,7 @@ local Config = {
     Version = "v1.0.0",
     Author = "CaesarElang",
     GitHub = "https://github.com/caesarelang/",
-    ValidKey = "CaesarElang"
+    ValidKey = "CaesarGanteng"
 }
 
 -- ========================================
