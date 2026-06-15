@@ -44,7 +44,7 @@ local Config = {
     HubName = "CaesarElang Hub",
     Version = "v1.0.0",
     Author = "CaesarElang",
-    GitHub = "https://github.com/caesarelang/",
+    GitHub = "https://github.com/caesarelang/Scripting/blob/main/README.md",
     ValidKey = "CaesarGanteng"
 }
 
